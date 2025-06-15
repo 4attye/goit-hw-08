@@ -19,5 +19,5 @@ def min_connection_cost(cables):
 
     return total_cost
 
-cables = [4, 3, 2, 6, 1, 8, 2, 5]
+cables = [4, 3, 2, 6]
 print(min_connection_cost(cables)) 
